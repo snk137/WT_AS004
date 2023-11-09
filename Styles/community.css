@@ -1,0 +1,37 @@
+
+.section-a {
+    max-width: 800px;
+    margin: 0 auto;
+    text-align: justify;
+}
+
+h2 {
+    color: #4c9baf;
+}
+
+.icon {
+    font-size: 24px;
+    color: #4c9baf;
+    margin-right: 10px;
+}
+
+.community-card {
+    background-color: #f5f5f5;
+    border-radius: 10px;
+    padding: 15px;
+    margin-bottom: 20px;
+}
+
+.community-card p {
+    margin-bottom: 15px;
+}
+
+.community-card a {
+    color: #4c9baf;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+.community-card a:hover {
+    color: rgb(4, 250, 250);
+}

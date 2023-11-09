@@ -1,0 +1,39 @@
+.initiative-card {
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    padding: 16px;
+    margin-bottom: 20px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.initiative-card img {
+    max-width: 100%;
+    height: auto;
+    border-radius: 8px;
+    margin-bottom: 12px;
+}
+
+.initiative-card h2 {
+    color: #333;
+    font-size: 20px;
+    margin-bottom: 8px;
+}
+
+.initiative-card p {
+    color: #666;
+    margin-bottom: 12px;
+}
+
+.initiative-card a {
+    display: inline-block;
+    background-color: #4c9baf;
+    color: white;
+    padding: 10px;
+    text-decoration: none;
+    border-radius: 5px;
+    transition: background-color 0.3s ease;
+}
+
+.initiative-card a:hover {
+    background-color: rgb(4, 250, 250);
+}
